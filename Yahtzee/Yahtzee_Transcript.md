@@ -5,7 +5,6 @@ Topic: Gen AI
 Type: Assignment
 Reviewed: Yes
 
-[https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c](https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c)
 
 ## Teach me the game of yahtzee
 
@@ -47,7 +46,6 @@ Roll the dice to create scoring combinations on your scorecard. The player with 
 
 Yahtzee is a simple game to learn but can be quite strategic. There are many resources online and video tutorials YouTube: [https://www.youtube.com/](https://www.youtube.com/) that can show you the game in action. Have fun rolling!
 
-[https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c](https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c)
 
 ## Can you play the game with me?
 
@@ -65,7 +63,7 @@ Here's how we can do it:
 
 Are you ready to play?  I can also explain any specific scoring categories you're unsure about.
 
-[https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c](https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c)
+
 
 ## Okay, Lets begin
 
@@ -80,7 +78,6 @@ What would you like to do?  You can choose to:
 - Score this roll in a category on your Yahtzee sheet. Tell me which category you want to use.
 - Re-roll some or all of the dice. Tell me which dice you want to keep (1, 3, 4, 5, or 5) and I will re-roll the rest.
 
-[https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c](https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c)
 
 ## I'd like to keep 3,4,5 and reroll the rest
 
@@ -92,7 +89,6 @@ Okay, keeping the 3, 4, and 5 gives you a good chance of getting a Straight or s
 
 Do any of the new dice fit into your scoring strategy, or would you like to score this turn based on the 3, 4, and 5?
 
-[https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c](https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c)
 
 ## Keep 3,4,5,6 and reroll
 
@@ -109,7 +105,6 @@ This gives you three 5s! You can score this in a few ways:
 
 What would you like to do? Score a Yahtzee (50 pts) or use the fives for a score of 15 points?
 
-[https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c](https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c)
 
 ## How did I get 3 5s?
 
@@ -127,7 +122,7 @@ Here are the corrected options for scoring this turn:
 
 Would you like me to re-roll the dice again, or would you like to score based on the Small Straight (30 points), Three of a Kind (18 points), or Chance (18 points)?
 
-[https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c](https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c)
+
 
 ## Why will you reroll the dice when I have already had 3 chances?
 
@@ -143,7 +138,7 @@ Looking back at the full roll (3, 4, 5, 6, 5),  you do have some interesting sco
 
 Since you've used two of your rolls,  you can't re-roll any dice this turn.  Would you like to choose one of these scoring options for this round, or would you like me to explain any of them in more detail?
 
-[https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c](https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c)
+
 
 ## Small straight
 
@@ -153,7 +148,7 @@ Excellent choice! Scoring a Small Straight with 30 points is a great way to use 
 
 Is this your first time playing Yahtzee, or have you played before?
 
-[https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c](https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c)
+
 
 ## I haven't played before. Can we move to the next round
 
@@ -163,7 +158,7 @@ Absolutely! Since you haven't played Yahtzee before, I apologize for the confusi
 
 - 1, 4, 4, 5, 6
 
-[https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c](https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c)
+
 
 ## Keep 4,5,6 and re roll
 
@@ -181,7 +176,7 @@ Unfortunately, the re-roll didn't give you any additional matching numbers for t
 
 What would you like to do? Score a Full House (25 pts), Three of a Kind (12 pts), or Chance (18 pts)?
 
-[https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c](https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c)
+
 
 ## Keep 4,5,6 and reroll
 
@@ -199,7 +194,6 @@ Looking back at your first roll (1, 4, 4, 5, 6), keeping 4, 5, and 6 was a strat
 
 Since you've used all three of your rolls, you can't re-roll any dice this turn.  Would you like to choose one of these scoring options for this round, or would you like me to explain any of them in more detail?
 
-[https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c](https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c)
 
 ## But I have only rolled twice
 
@@ -215,7 +209,6 @@ Here are your scoring options for the turn based on the final roll (1, 4, 4, 5, 
 
 Would you like to choose one of these scoring options, or would you like me to explain any of them in more detail before you decide?
 
-[https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c](https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c)
 
 ## No, I can roll 3 times in a game of yahtzee but I have only rolled twice so far. Allow me to roll the dice again
 
@@ -227,7 +220,7 @@ Re-rolled dice:  1, 4, 4, 5, (rolls another die)
 
 Let me know what the final number is on the last die, and then you can decide how you want to score this round.
 
-[https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c](https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c)
+
 
 ## What do u mean "(rolls another die)"
 
@@ -239,7 +232,7 @@ In Yahtzee, you do get three rolls per turn, but I can't actually roll dice or s
 
 So, for your third and final roll this round, what number did you get on the last die?  Then, based on all five dice showing, you can decide how you want to score this turn.
 
-[https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c](https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c)
+
 
 ## You have been rolling the dice for me so far. Please continue doing that.
 
@@ -258,7 +251,7 @@ Looking at all five dice, here are your scoring options:
 
 What would you like to do? Score a Full House (25 pts), Three of a Kind (12 pts), Fours (8 pts), or Chance (15 pts)?
 
-[https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c](https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c)
+
 
 ## I asked you to keep 4,5,6 and then reroll
 
@@ -272,7 +265,6 @@ The last die lands on a... (wait for your response here)!  Once you tell me the 
 
 **share**
 
-[https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c](https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c)
 
 ## Why will I give a response?
 
@@ -292,7 +284,7 @@ Looking at all five dice, here are your scoring options:
 
 Let me know how you would like to score this round based on the options above.
 
-[https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c](https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c)
+
 
 ## This was my third roll
 
@@ -308,7 +300,6 @@ Here are your scoring options for the turn based on the final roll (4, 5, 6, 3, 
 
 Would you like to choose one of these scoring options, or would you like me to explain any of them in more detail before you decide?
 
-[https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c](https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c)
 
 ## Why do i have a full house? I dont have three of a kind (the 4s) and a pair (the 2s). My numbers are 4, 5, 6, 3, 2.
 
@@ -323,7 +314,6 @@ Here are the corrected scoring options for this round based on the final roll:
 
 Would you like to choose one of these scoring options (Three of a Kind or Chance), or would you like me to explain them in more detail?
 
-[https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c](https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c)
 
 ## I have a large straight right?
 
@@ -336,7 +326,6 @@ Scoring a Large Straight is a great achievement, especially early in the game.  
 1. **Mark your scorecard:** Since this is your first time getting a Large Straight, you'll mark a 40 in the Large Straight box on your Yahtzee scorecard.
 2. **Start the next round:** Do you want to move on to the next round, or would you like to hear some tips for strategizing the rest of the game?
 
-[https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c](https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c)
 
 ## I go with a large straight. Next round please
 
@@ -346,7 +335,6 @@ Excellent choice! Scoring a Large Straight (40 points) right off the bat is a gr
 
 2, 4, 4, 5, 6
 
-[https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c](https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c)
 
 ## keep 4,4 and reroll
 
@@ -365,7 +353,6 @@ Looking at all five dice now (2, 4, 4, 1, 3), you have a few interesting options
 
 What would you like to do? Score a Four of a Kind (32 pts), Full House (25 pts), Three of a Kind (16 pts), or Chance (10 pts)?
 
-[https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c](https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c)
 
 ## Keep 4,4 and reroll
 
@@ -382,7 +369,6 @@ Here are your scoring options for this round based on the final roll (2, 4, 4, 1
 
 Would you like to choose one of these scoring options (Four of a Kind, Full House, Three of a Kind, or Chance), or would you like me to explain any of them in more detail?
 
-[https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c](https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c)
 
 ## How to approach writing a code for the yahtzee game?
 
@@ -434,7 +420,6 @@ Once you have the basic game running, you can add features like:
 
 Remember, this is a simplified overview.  As you delve deeper, you'll encounter more specific coding details and challenges.  Don't hesitate to search online for tutorials and examples in your chosen language.  Good luck and have fun coding Yahtzee!
 
-[https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c](https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c)
 
 ## what are the functions i will need to use to code the game of yahtzee
 
