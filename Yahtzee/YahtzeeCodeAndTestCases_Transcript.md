@@ -1,11 +1,5 @@
 # Yahtzee Code and Test Cases
 
-Created: March 17, 2024 1:13 PM
-Topic: Gen AI
-Type: Assignment
-Reviewed: Yes
-
-[https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c](https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c)
 
 ## I am trying to write a python code to build a bot that helps me play the game yahtzee. What are the functions I have to include here.
 
@@ -35,7 +29,6 @@ Remember, this is a basic framework. You can add more functionalities like keepi
 
 **more_vert**
 
-[https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c](https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c)
 
 ## Instead of get_available_scores(dice) can we do score(dice: list[int]) -> dict[str, int] which returns a dictionary containing what the yahtzee hand represented by the list dice would score in each Yahtzee category
 
@@ -82,7 +75,7 @@ This function takes a list of dice values (`dice`) and returns a dictionary (`sc
 
 By using this `score` function, you can easily determine the score for any category and integrate it into your Yahtzee helper bot's decision making logic.
 
-[https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c](https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c)
+\
 
 ## write the code for roll_dice
 
@@ -125,7 +118,6 @@ This code provides a basic implementation for rolling dice. You can further enha
 - Allowing users to specify different die types (e.g., 4-sided, 8-sided) by adding another argument to the function.
 - Implementing re-rolls by taking another argument specifying the number of dice to re-roll after the initial roll.
 
-[https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c](https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c)
 
 ## write a code for:calculate_score(dice, category)
 
@@ -166,7 +158,7 @@ This function accomplishes the following:
 
 This approach leverages the `score` function to calculate scores for all categories efficiently and then retrieves the specific score based on the desired category.
 
-[https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c](https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c)
+
 
 ## choose_best_move(dice, available_scores)
 
@@ -221,7 +213,6 @@ The simple approach is easier to implement but might not be optimal in all situa
 
 **Note:** This implementation assumes the `calculate_score` function is defined elsewhere.
 
-[https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c](https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c)
 
 ## show_dice(dice)
 
@@ -260,7 +251,6 @@ This code provides a basic way to display the rolled dice. You can further custo
 - Different dice display symbols (e.g., pips, characters) depending on user preference.
 - Colors for highlighting specific dice values.
 
-[https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c](https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c)
 
 ## show_scores(available_scores)
 
@@ -304,7 +294,6 @@ This function incorporates the following functionalities:
 
 **Note:** This code assumes the existence of a function `get_rolled_dice` that retrieves the current dice roll. You'll need to implement this function or integrate it with your Yahtzee game logic.
 
-[https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c](https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c)
 
 ## write a fuction for keeping track of score history
 
@@ -345,7 +334,7 @@ This function accomplishes the following:
 - You can modify the function to return the updated score history if needed for further analysis in your bot's logic.
 - You can add functionalities to display the entire score history upon user request or after a certain number of rounds.
 
-[https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c](https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c)
+
 
 ## write 25 test cases for this yahtzee game code
 
@@ -406,7 +395,7 @@ These test cases cover various functionalities of the Yahtzee helper bot code, i
 
 These test cases provide a starting point for ensuring the functionality and robustness of your Yahtzee helper bot code. You can further expand these tests based on specific features and functionalities you implement.
 
-[https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c](https://lh3.googleusercontent.com/a/ACg8ocLNt_XwTfKflACtwChRCpUWS1Njc7-o-H9fiRfm5_tKyx0=s64-c)
+
 
 ## write the code to execute: **Dice Rolling (roll_dice):**
 1. **Test Case 1:** Roll 5 dice, expect a list of 5 random integers between 1 and 6.
